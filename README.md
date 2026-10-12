@@ -1,5 +1,5 @@
 # GMI Pharma Marketplace — Telegram Mini App Prototype
-
+GMI pharma import sales 
 ## What's included
 - `index.html`: responsive, interactive frontend prototype
 - English/Amharic language toggle
